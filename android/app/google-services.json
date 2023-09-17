@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437884193597",
+    "project_id": "chatmessenger-personal",
+    "storage_bucket": "chatmessenger-personal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437884193597:android:e691b5f0bcb66ac30cd354",
+        "android_client_info": {
+          "package_name": "com.example.chat_messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLoB4KQBqJE5IZFqDm8XFSE3PljEfzkW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
