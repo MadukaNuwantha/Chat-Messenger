@@ -8,6 +8,6 @@
 <p float="left">
   <img src="assets/home-screen.png" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-  <img src="assets/chat-message.png" width="250" />
+  <img src="assets/chat-screen.png" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
